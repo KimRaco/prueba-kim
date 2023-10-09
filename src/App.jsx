@@ -25,7 +25,6 @@ function App() {
   }, []);
 
   useEffect(() => {
-    console.log(users)
   }, [users])
 
 
