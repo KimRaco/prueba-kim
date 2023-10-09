@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+
+body {
+  background-color: rgb(26, 23, 23);
+  color: aliceblue;
+}
+
+button {
+  color: black;
+}
+
+input {
+  background-color: aliceblue;
+  color: black;
+}
+
+table {
+ width: 100%;
+
+}
+
+
+th {
+  width: 800px;
+  border-bottom: solid 1px white;
+  padding-bottom: 10px;
+}
+
+.buttons-holder {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
